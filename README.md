@@ -1,6 +1,6 @@
 # dsh-cn-skills
 
-**给 DeepSeek Harness 的中文技能包——15 个中国人日常最常用的技能，开箱即用。**
+**给 DeepSeek Harness 的中文技能包。15 个技能，都是日常真正用得上的事。**
 
 ## 这是什么
 
